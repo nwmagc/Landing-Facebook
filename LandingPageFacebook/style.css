@@ -1,0 +1,53 @@
+/*Configuraciones para el background de la página*/
+body {
+    background-color: #f7f7f7;
+    font-family: Arial, sans-serif;
+    color: #3b5998;
+  }
+
+/*Texto de bienvenida*/
+  h1 {
+    color: #3b5998;
+    text-align: center;
+  }
+
+  /*Configuraciones para el logo de Facebook*/
+  img {
+    width: 200px;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  
+  /*Cuadro con la descripción de la página web*/
+  .box {
+    color: #ffffff;
+    text-align: center;
+    border-radius: 5px;
+    padding: 40px;
+    box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);
+    white-space: pre-wrap;
+    background-color: #3b5998;
+    width: 300px;
+    margin: 0 auto;
+  }
+
+/*Divisor entre el cuadro descriptivo y el formulario*/
+  .divisor {
+    border-top: 90px solid #f7f7f7;
+    margin-top: 10px;
+  }
+
+  /*Formulario*/
+  .registro{
+    text-align: center;
+  }
+
+  /*Icono del final de la página*/
+  .registro img{
+    width: 90px;
+  }
+  
+
+  
